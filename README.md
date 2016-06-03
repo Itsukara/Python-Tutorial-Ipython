@@ -24,7 +24,7 @@ https://github.com/
 + [GitHub](https://github.com/Itsukara/Python-Tutorial-Ipython)から本ファイル群をダウンロードし解凍する。
 
 + 解凍したフォルダでコマンドプロンプトを開き、Jupyter/IPython Notebookを起動する：  
-　```> jupyter notebook```
+　```> Jupyter Notebook```
 
 + 上記により、ブラウザが開き、本ファイル群がjupyterから見れるので、Notebookファイル(tutorial-ch01.ipynb～tutorial-ch11.ipynb)クリックして開く。(閉じ方はFile -> "Close and Halt")
 
